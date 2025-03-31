@@ -10,7 +10,7 @@ A modern terminal interface for browsing the latest news from Hacker News.
 - Responsive design
 
 ## Demo
-Check out the live demo [here](https://hackernews-terminal.netlify.app).
+Check out the live demo [here](https://hackernewsxd.vercel.app/).
 
 ## Setup
 
